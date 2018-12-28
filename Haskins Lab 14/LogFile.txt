@@ -1,0 +1,6 @@
+17:18:58First log message
+17:18:58Second log message
+17:18:58Third log message
+17:20:49First log message
+17:20:49Second log message
+17:20:49Third log message
